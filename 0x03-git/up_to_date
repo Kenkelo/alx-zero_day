@@ -1,2 +1,1 @@
-CONFLICT (modify/delete): 0x03-git/README.md deleted in HEAD and modified in 63d1fc563b1f9763970eb159b5bf268b57e74750. Version 63d1fc563b1f9763970eb159b5bf268b57e74750 of 0x03-git/README.md left in tree.
-Automatic merge failed; fix conflicts and then commit the result.
+git pull
